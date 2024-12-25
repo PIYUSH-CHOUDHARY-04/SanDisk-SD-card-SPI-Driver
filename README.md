@@ -9,4 +9,4 @@ Usage of this library :
 initialization routines ------> IO/IOCTL routines ------> de-initialization routines
 
 
-Programmer must initialize the HAL library ad include any SPI relevant header file to ensure functionality of this driver.
+Programmer must initialize the HAL library and include any SPI relevant header file to ensure functionality of this driver.
