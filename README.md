@@ -7,3 +7,6 @@ This library aims cards of all capacities like SDSC, SDHC, SDXC etc.
 Usage of this library : 
 
 initialization routines ------> IO/IOCTL routines ------> de-initialization routines
+
+
+Programmer must initialize the HAL library ad include any SPI relevant header file to ensure functionality of this driver.
